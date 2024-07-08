@@ -22,3 +22,4 @@ What's not tested:
 What's not working:  
 -Audio (Will probably work with AppleALC.kext, but i do not have any option for audio output so i have not added kext for it.)  
   
+Remember that if you want to use this config, you'll probably need to create new USBToolBox usb map for your setup if you are not using same parts as me, also look out for SSDT-PM as it was made for i7-3770k especially and eventually you should not be using it through installation.
